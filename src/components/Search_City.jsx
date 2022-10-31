@@ -32,4 +32,4 @@ const City_Search = ({el,searchText,setText}) => {
   )
 }
 
-export default City_Search
+export default City_Search ;

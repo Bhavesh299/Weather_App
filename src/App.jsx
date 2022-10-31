@@ -1,7 +1,7 @@
 import "./App.css";
 import { Box } from "@chakra-ui/react";
 import SearchBar from "./components/SearchBar";
-import Forecast from "./components/Forecast";
+import Forecast from "./components/Fore_Cast";
 import Statistics from "./components/Statistics";
 import { useEffect, useState } from "react";
 import axios from "axios";
