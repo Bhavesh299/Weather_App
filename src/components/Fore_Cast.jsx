@@ -1,6 +1,6 @@
 import { Box, Center, Flex, Image, Text } from "@chakra-ui/react";
 import React, { useState } from "react";
-import ForecastCard from "./ForecastCard";
+import ForecastCard from "./Fore_Cast_Card";
 
 const Forecast = ({ weekly, handleChangeDay }) => {
 
