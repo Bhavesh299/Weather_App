@@ -1,7 +1,7 @@
 import { Box, Center, Flex, Image, Text } from '@chakra-ui/react'
 import React from 'react'
 
-const City_Search = ({el,searchText,setText}) => {
+const CitySearch = ({el,searchText,setText}) => {
 
   const handleSearchCities=()=>{
     searchText(el?.city)
@@ -32,4 +32,4 @@ const City_Search = ({el,searchText,setText}) => {
   )
 }
 
-export default City_Search ;
+export default CitySearch ;
