@@ -9,7 +9,7 @@ import {
   import { MdLocationOn } from "react-icons/md";
   import { GrSearch } from "react-icons/gr";
   import { Cities } from "../data/city";
-  import CityDebounce from "./DebounceCity";
+  import CityDebounce from "./Debounce_City";
   import City_Search from "./Search_City";
   
   const SearchBar = ({ searchText ,currentLocation, currentLocationFind}) => {
