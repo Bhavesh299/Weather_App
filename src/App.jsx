@@ -1,6 +1,6 @@
 import "./App.css";
 import { Box } from "@chakra-ui/react";
-import SearchBar from "./components/SearchBar";
+import SearchBar from "./components/Search_Bar";
 import Forecast from "./components/Fore_Cast";
 import Statistics from "./components/Statistics";
 import { useEffect, useState } from "react";
