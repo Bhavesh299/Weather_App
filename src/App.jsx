@@ -5,7 +5,7 @@ import Forecast from "./components/Fore_Cast";
 import Statistics from "./components/Statistics";
 import { useEffect, useState } from "react";
 import axios from "axios";
-import { Navbar } from "./components/Navbar";
+// import { Navbar } from "./components/Navbar";
 
 function App() {
   let [loading, setLoading] = useState(true);
@@ -106,7 +106,6 @@ setTimeout(() =>{
     <Box className="App" maxW="40rem" margin="0 auto" p='1rem 0' position="relative">
      
       <Box className="searchBox" p="1rem">
-      <Navbar/>
         <SearchBar
           currentLocation={currentLocation}
           currentLocationFind={currentLocationFind}
