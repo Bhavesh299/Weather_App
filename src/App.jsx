@@ -129,6 +129,7 @@ setTimeout(() =>{
           >
             <Statistics day={day} current={current} hourly={hourly} />
           </Box>
+          {/* loding Page */}
         </>
       )}
       {loading && 
