@@ -1,6 +1,6 @@
 ## About 
 
-This is a Small Weather App (url : )
+# This is a Small Weather App
 
 It's Showing the Weather of selected city and gives last 7 days weather with charts format.
 
@@ -23,21 +23,11 @@ https://ssenseprojectclone.vercel.app/
 
 ## Reference Images
 
-![Screenshot (368)](https://user-images.githubusercontent.com/97461783/167412516-fb7700f9-d0e4-4732-9df6-9c11dfd2614d.png)
+<img width="960" alt="Weather front" src="https://user-images.githubusercontent.com/97518972/202915974-24832b5c-d1d9-4445-83a1-27d2acc4062a.png">
 
-![Screenshot (358)](https://user-images.githubusercontent.com/97461783/167412562-1b099a35-9873-4d14-8a4c-ac19a7a1197b.png)
+<img width="960" alt="pagination" src="https://user-images.githubusercontent.com/97518972/202916017-3534c2e9-0d42-4820-a1f5-4b37c790591a.png">
 
-![Screenshot (359)](https://user-images.githubusercontent.com/97461783/167412599-7a950c93-56e3-47e3-8a6b-bca8030f548e.png)
-
-![Screenshot (361)](https://user-images.githubusercontent.com/97461783/167412646-133bcc7f-3a2d-472e-b387-ef095e202294.png)
-
-![Screenshot (362)](https://user-images.githubusercontent.com/97461783/167412726-8f738ac2-4f81-4bb6-a9c0-8c306d5ded7a.png)
-
-![Screenshot (370)](https://user-images.githubusercontent.com/97461783/167415579-3da7d6b4-5340-4025-975a-49d5ebeb2c1b.png)
-
-![Screenshot (371)](https://user-images.githubusercontent.com/97461783/167415591-a19aaf32-c9ee-469a-9d55-8cf12d10fdcb.png)
-
-
+<img width="960" alt="loader" src="https://user-images.githubusercontent.com/97518972/202916010-584c6bf9-87ba-4c39-a84f-12d62fa66a78.png">
 
 # Getting Started with Create React App
 
